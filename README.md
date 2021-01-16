@@ -17,7 +17,10 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 ![Image Desc](images/vine_reviews_results.png)
 ## Summary
 Was there any positivity bias for reviews in the vine program
-An additional recommended analysis
+- I don't think there was any bias within the Vine program, if we look at the review ratios, the non Vine review far exceeded the Vine review count.
+
+An additional recommended analysis would be to use an equally sized dataset either generated randomly
+or from more data that we just don't have with this data set.
 
 ![Image Desc](images/customer_table.png)
 ![Image Desc](images/product_table.png)
